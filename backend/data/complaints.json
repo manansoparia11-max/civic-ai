@@ -1,0 +1,600 @@
+[
+  {
+    "id": "AMC-2026-X89B4",
+    "title": "Pothole on Sindhu Bhavan Road",
+    "category": "Pothole & Road Cavity",
+    "description": "Large pothole approximately 2ft wide and 6 inches deep on the main carriageway of Sindhu Bhavan Road near Pakwan Cross Roads. Multiple vehicles have been damaged. Immediate repair needed before monsoon worsens the cavity.",
+    "severity": "High",
+    "hazardScore": 78,
+    "confidence": 92.5,
+    "status": "Resolved",
+    "ward": "Ward 9 - Bodakdev",
+    "zone": "West Zone",
+    "location": "Sindhu Bhavan Road, near Pakwan Cross Roads, Bodakdev",
+    "coordinates": {
+      "lat": 23.0365,
+      "lng": 72.5112
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Rajesh Patel",
+    "fieldContractor": "ABC Infrastructure Pvt. Ltd.",
+    "reportedBy": "Amit Shah",
+    "citizenPhone": "+91 98765 43210",
+    "createdAt": "2026-10-20T09:15:00+05:30",
+    "slaDeadline": "2026-10-22T09:15:00+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=400",
+    "resolutionImageUrl": null,
+    "resolutionNotes": "Hot-mix bituminous asphalt surfacing completed and inspected.",
+    "timeline": [
+      {
+        "stage": "Reported",
+        "status": "completed",
+        "timestamp": "2026-10-20T09:15:00+05:30",
+        "note": "Complaint registered via CivicSnap AI"
+      },
+      {
+        "stage": "AI Analysis",
+        "status": "completed",
+        "timestamp": "2026-10-20T09:15:05+05:30",
+        "note": "AI classified as Pothole & Road Cavity with 92.5% confidence"
+      },
+      {
+        "stage": "Assigned",
+        "status": "completed",
+        "timestamp": "2026-10-20T10:30:00+05:30",
+        "note": "Assigned to Er. Rajesh Patel, Roads & Buildings Dept"
+      },
+      {
+        "stage": "In Progress",
+        "status": "completed",
+        "timestamp": "2026-10-21T08:00:00+05:30",
+        "note": "Contractor dispatched, repair work initiated"
+      },
+      {
+        "stage": "Resolved",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 05:55 PM",
+        "note": "Hot-mix bituminous asphalt surfacing completed and inspected."
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-G2F7L",
+    "title": "Overflowing Garbage at Vastrapur Lake",
+    "category": "Solid Waste & Overflowing Bin",
+    "description": "Multiple garbage bins near Vastrapur Lake entrance are overflowing. Waste is scattered across the walkway creating an unhygienic environment. Stray animals are spreading waste further. Strong foul odour reported by morning walkers.",
+    "severity": "Critical",
+    "hazardScore": 89,
+    "confidence": 95.0,
+    "status": "Open",
+    "ward": "Ward 8 - Vastrapur",
+    "zone": "West Zone",
+    "location": "Vastrapur Lake, Main Entrance, Vastrapur",
+    "coordinates": {
+      "lat": 23.0308,
+      "lng": 72.5294
+    },
+    "department": "Solid Waste Management Dept",
+    "assignedEngineer": "Unassigned",
+    "fieldContractor": "Unassigned",
+    "reportedBy": "Priya Mehta",
+    "citizenPhone": "+91 87654 32109",
+    "createdAt": "2026-10-22T07:30:00+05:30",
+    "slaDeadline": "2026-10-23T07:30:00+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=400",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Reported",
+        "status": "completed",
+        "timestamp": "2026-10-22T07:30:00+05:30",
+        "note": "Complaint registered via CivicSnap AI"
+      },
+      {
+        "stage": "AI Analysis",
+        "status": "completed",
+        "timestamp": "2026-10-22T07:30:04+05:30",
+        "note": "AI classified as Solid Waste & Overflowing Bin with 95.0% confidence"
+      },
+      {
+        "stage": "Assigned",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      },
+      {
+        "stage": "In Progress",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      },
+      {
+        "stage": "Resolved",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-L1R9P",
+    "title": "Broken Streetlight at Navrangpura",
+    "category": "Broken Streetlight & Electrical Hazard",
+    "description": "Streetlight pole near Navrangpura AMTS bus stop has a broken lamp and exposed wiring. The area is completely dark after sunset posing safety risk for pedestrians and commuters. Sparking observed during rain.",
+    "severity": "Critical",
+    "hazardScore": 91,
+    "confidence": 88.0,
+    "status": "Open",
+    "ward": "Ward 14 - Navrangpura",
+    "zone": "North-West Zone",
+    "location": "Near AMTS Bus Stop, Navrangpura",
+    "coordinates": {
+      "lat": 23.0396,
+      "lng": 72.5601
+    },
+    "department": "Street Lighting & Electrical Dept",
+    "assignedEngineer": "Unassigned",
+    "fieldContractor": "Unassigned",
+    "reportedBy": "Vikram Joshi",
+    "citizenPhone": "+91 76543 21098",
+    "createdAt": "2026-10-23T18:45:00+05:30",
+    "slaDeadline": "2026-10-24T18:45:00+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1617953141700-ace03f9c1604?w=400",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Reported",
+        "status": "completed",
+        "timestamp": "2026-10-23T18:45:00+05:30",
+        "note": "Complaint registered via CivicSnap AI"
+      },
+      {
+        "stage": "AI Analysis",
+        "status": "completed",
+        "timestamp": "2026-10-23T18:45:03+05:30",
+        "note": "AI classified as Broken Streetlight & Electrical Hazard with 88.0% confidence"
+      },
+      {
+        "stage": "Assigned",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      },
+      {
+        "stage": "In Progress",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      },
+      {
+        "stage": "Resolved",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-W5K3M",
+    "title": "Water Pipeline Burst at Satellite",
+    "category": "Water Supply & Drainage Leak",
+    "description": "Major water pipeline burst on 100 Feet Ring Road near Shyamal Cross Roads. Water gushing out onto the road causing traffic disruption and water wastage. Road surface eroding around the burst area. Multiple households reporting low water pressure.",
+    "severity": "High",
+    "hazardScore": 82,
+    "confidence": 90.0,
+    "status": "In Progress",
+    "ward": "Ward 11 - Satellite",
+    "zone": "West Zone",
+    "location": "100 Feet Ring Road, near Shyamal Cross Roads, Satellite",
+    "coordinates": {
+      "lat": 23.017,
+      "lng": 72.529
+    },
+    "department": "Water Supply & Drainage Dept",
+    "assignedEngineer": "Er. Meena Sharma",
+    "fieldContractor": "Gujarat Water Works Co.",
+    "reportedBy": "Rahul Desai",
+    "citizenPhone": "+91 65432 10987",
+    "createdAt": "2026-10-21T14:20:00+05:30",
+    "slaDeadline": "2026-10-23T14:20:00+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?w=400",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Reported",
+        "status": "completed",
+        "timestamp": "2026-10-21T14:20:00+05:30",
+        "note": "Complaint registered via CivicSnap AI"
+      },
+      {
+        "stage": "AI Analysis",
+        "status": "completed",
+        "timestamp": "2026-10-21T14:20:06+05:30",
+        "note": "AI classified as Water Supply & Drainage Leak with 90.0% confidence"
+      },
+      {
+        "stage": "Assigned",
+        "status": "completed",
+        "timestamp": "2026-10-21T15:00:00+05:30",
+        "note": "Assigned to Er. Meena Sharma, Water Supply & Drainage Dept"
+      },
+      {
+        "stage": "In Progress",
+        "status": "current",
+        "timestamp": "2026-10-22T07:30:00+05:30",
+        "note": "Excavation and pipe replacement underway"
+      },
+      {
+        "stage": "Resolved",
+        "status": "upcoming",
+        "timestamp": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-F4N8Q",
+    "title": "Broken Paver Blocks at Kankaria",
+    "category": "Footpath & Pedestrian Infrastructure",
+    "description": "Several paver blocks on the walking track near Kankaria Lake main gate are broken and uneven. Senior citizens and children are at risk of tripping. Some blocks have sunk creating puddles during rain.",
+    "severity": "Medium",
+    "hazardScore": 55,
+    "confidence": 87.5,
+    "status": "Resolved",
+    "ward": "Ward 22 - Maninagar",
+    "zone": "East Zone",
+    "location": "Kankaria Lake, Main Gate Walking Track, Maninagar",
+    "coordinates": {
+      "lat": 23.0067,
+      "lng": 72.6002
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Suresh Vaghela",
+    "fieldContractor": "Patel Paving Solutions",
+    "reportedBy": "Neha Trivedi",
+    "citizenPhone": "+91 54321 09876",
+    "createdAt": "2026-10-15T11:00:00+05:30",
+    "slaDeadline": "2026-10-18T11:00:00+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1590496793929-36417d3117de?w=400",
+    "resolutionImageUrl": "https://images.unsplash.com/photo-1590496793929-36417d3117de?w=400",
+    "resolutionNotes": "All broken paver blocks replaced with new interlocking pavers. Surface levelled and drainage improved. Work inspected and approved by ward engineer.",
+    "timeline": [
+      {
+        "stage": "Reported",
+        "status": "completed",
+        "timestamp": "2026-10-15T11:00:00+05:30",
+        "note": "Complaint registered via CivicSnap AI"
+      },
+      {
+        "stage": "AI Analysis",
+        "status": "completed",
+        "timestamp": "2026-10-15T11:00:04+05:30",
+        "note": "AI classified as Footpath & Pedestrian Infrastructure with 87.5% confidence"
+      },
+      {
+        "stage": "Assigned",
+        "status": "completed",
+        "timestamp": "2026-10-15T14:00:00+05:30",
+        "note": "Assigned to Er. Suresh Vaghela, Roads & Buildings Dept"
+      },
+      {
+        "stage": "In Progress",
+        "status": "completed",
+        "timestamp": "2026-10-16T09:00:00+05:30",
+        "note": "Contractor on site, paver replacement started"
+      },
+      {
+        "stage": "Resolved",
+        "status": "completed",
+        "timestamp": "2026-10-17T16:30:00+05:30",
+        "note": "Repair completed and verified by ward engineer"
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-L7DGY",
+    "title": "[DEMO SUBMISSION] Dangerous Road Cavity on SG Highway",
+    "category": "Pothole & Road Cavity",
+    "description": "Deep road cavity causing severe traffic disruption.",
+    "severity": "High",
+    "hazardScore": 85,
+    "confidence": 96.0,
+    "status": "Open",
+    "ward": "Ward 9 - Bodakdev",
+    "zone": "North West Zone",
+    "location": "Near Pakwan Cross Roads, SG Highway, Bodakdev",
+    "coordinates": {
+      "lat": 23.0428,
+      "lng": 72.5065
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Nilesh Patel (AE - Bodakdev)",
+    "fieldContractor": "AMC Quick Response Infrastructure Squad",
+    "reportedBy": "Manan Soparia",
+    "citizenPhone": "+91 98250 12345",
+    "createdAt": "2026-10-24T17:56:28.197549+05:30",
+    "slaDeadline": "2026-10-26T05:56:28.197549+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=400",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Complaint Registered",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 05:56 PM",
+        "note": "CivicSnap AI verified defect with 96.0% confidence. Ticket created."
+      },
+      {
+        "stage": "Ward Officer Verification",
+        "status": "current",
+        "timestamp": "In Progress (SLA: 2 hrs)",
+        "note": "Dispatched to Ward 9 - Bodakdev Zonal Field Unit for on-site verification."
+      },
+      {
+        "stage": "Work Order Issued",
+        "status": "upcoming",
+        "timestamp": "Pending Verification",
+        "note": "Requisitioning materials & repair crew for Roads & Buildings Project Dept."
+      },
+      {
+        "stage": "Repair in Progress",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "Field remediation on site."
+      },
+      {
+        "stage": "Quality Audit & Resolved",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "AMC Quality Division before/after photographic sign-off."
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-R8W2M",
+    "title": "[DEMO SUBMISSION] Pothole & Road Cavity at Ward 1 - Gota",
+    "category": "Pothole & Road Cavity",
+    "description": "Severe asphalt depression and broken road foundation posing critical collision risk to two-wheelers and motorists.",
+    "severity": "High",
+    "hazardScore": 84,
+    "confidence": 96.5,
+    "status": "Open",
+    "ward": "Ward 1 - Gota",
+    "zone": "North West Zone",
+    "location": "vandematram road",
+    "coordinates": {
+      "lat": 23.0982,
+      "lng": 72.535
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Nilesh Patel (AE - Gota)",
+    "fieldContractor": "AMC Quick Response Infrastructure Squad",
+    "reportedBy": "Vikas Patel",
+    "citizenPhone": "+91 98251 40921",
+    "createdAt": "2026-10-24T18:04:04.886846+05:30",
+    "slaDeadline": "2026-10-26T06:04:04.886846+05:30",
+    "imageUrl": "/uploads/fb4390969d0f4712beb771530ab8533c.jpg",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Complaint Registered",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 06:04 PM",
+        "note": "CivicSnap AI verified defect with 96.5% confidence. Ticket created."
+      },
+      {
+        "stage": "Ward Officer Verification",
+        "status": "current",
+        "timestamp": "In Progress (SLA: 2 hrs)",
+        "note": "Dispatched to Ward 1 - Gota Zonal Field Unit for on-site verification."
+      },
+      {
+        "stage": "Work Order Issued",
+        "status": "upcoming",
+        "timestamp": "Pending Verification",
+        "note": "Requisitioning materials & repair crew for Roads & Buildings Project Dept."
+      },
+      {
+        "stage": "Repair in Progress",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "Field remediation on site."
+      },
+      {
+        "stage": "Quality Audit & Resolved",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "AMC Quality Division before/after photographic sign-off."
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-YTJ4Q",
+    "title": "[DEMO SUBMISSION] Pothole & Road Cavity at Ward 1 - Gota",
+    "category": "Pothole & Road Cavity",
+    "description": "Severe asphalt depression and broken road foundation posing critical collision risk to two-wheelers and motorists.",
+    "severity": "High",
+    "hazardScore": 84,
+    "confidence": 96.5,
+    "status": "Open",
+    "ward": "Ward 1 - Gota",
+    "zone": "North West Zone",
+    "location": "vandematram chowk",
+    "coordinates": {
+      "lat": 23.0982,
+      "lng": 72.535
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Nilesh Patel (AE - Gota)",
+    "fieldContractor": "AMC Quick Response Infrastructure Squad",
+    "reportedBy": "manan soparia",
+    "citizenPhone": "+91 9274170817",
+    "createdAt": "2026-10-24T18:11:20.017464+05:30",
+    "slaDeadline": "2026-10-26T06:11:20.017464+05:30",
+    "imageUrl": "/uploads/8a45978b2ae44797ac9fbf38d6f055b7.jpg",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Complaint Registered",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 06:11 PM",
+        "note": "CivicSnap AI verified defect with 96.5% confidence. Ticket created."
+      },
+      {
+        "stage": "Ward Officer Verification",
+        "status": "current",
+        "timestamp": "In Progress (SLA: 2 hrs)",
+        "note": "Dispatched to Ward 1 - Gota Zonal Field Unit for on-site verification."
+      },
+      {
+        "stage": "Work Order Issued",
+        "status": "upcoming",
+        "timestamp": "Pending Verification",
+        "note": "Requisitioning materials & repair crew for Roads & Buildings Project Dept."
+      },
+      {
+        "stage": "Repair in Progress",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "Field remediation on site."
+      },
+      {
+        "stage": "Quality Audit & Resolved",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "AMC Quality Division before/after photographic sign-off."
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-AFIAY",
+    "title": "[DEMO SUBMISSION] Roadside Garbage Dumping at Bodakdev",
+    "category": "Solid Waste & Roadside Garbage Dumping",
+    "description": "Solid waste pile overflowing onto the main carriageway.",
+    "severity": "Critical",
+    "hazardScore": 91,
+    "confidence": 97.4,
+    "roadSpaceReductionPct": 40,
+    "roadSpaceImpact": "Reduces active road space by ~40%; blocks outer traffic lane",
+    "roadDamageType": "Surface Obstruction & Bitumen Degradation from Leachate",
+    "obstructionType": "Solid Waste Accumulation",
+    "status": "Open",
+    "ward": "Ward 9 - Bodakdev",
+    "zone": "North West Zone",
+    "location": "Near Judges Bungalow Crossroad, Bodakdev",
+    "coordinates": {
+      "lat": 23.0428,
+      "lng": 72.5065
+    },
+    "department": "Solid Waste Management Dept",
+    "assignedEngineer": "Er. Nilesh Patel (AE - Bodakdev)",
+    "fieldContractor": "AMC Quick Response Infrastructure Squad",
+    "reportedBy": "Citizen Tester",
+    "citizenPhone": "+91 98250 11223",
+    "createdAt": "2026-10-24T18:25:05.519445+05:30",
+    "slaDeadline": "2026-10-25T18:25:05.519445+05:30",
+    "imageUrl": "https://images.unsplash.com/photo-1605600659873-d808a13e4d2a?auto=format&fit=crop&w=800&q=80",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Complaint Registered",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 06:25 PM",
+        "note": "CivicSnap AI verified defect with 97.4% confidence. Ticket created."
+      },
+      {
+        "stage": "Ward Officer Verification",
+        "status": "current",
+        "timestamp": "In Progress (SLA: 2 hrs)",
+        "note": "Dispatched to Ward 9 - Bodakdev Zonal Field Unit for on-site verification."
+      },
+      {
+        "stage": "Work Order Issued",
+        "status": "upcoming",
+        "timestamp": "Pending Verification",
+        "note": "Requisitioning materials & repair crew for Solid Waste Management Dept."
+      },
+      {
+        "stage": "Repair in Progress",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "Field remediation on site."
+      },
+      {
+        "stage": "Quality Audit & Resolved",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "AMC Quality Division before/after photographic sign-off."
+      }
+    ]
+  },
+  {
+    "id": "AMC-2026-9D2C4",
+    "title": "[DEMO SUBMISSION] Pothole & Road Cavity Damage at Ward 8 - Vastrapur",
+    "category": "Pothole & Road Cavity Damage",
+    "description": "Severe asphalt cavity and structural base collapse exceeding 1.2m diameter and 15cm depth. Destroys vehicle rims, causes loss of steering control, and bottlenecks traffic lane.",
+    "severity": "High",
+    "hazardScore": 87,
+    "confidence": 97.2,
+    "roadSpaceReductionPct": 35,
+    "roadSpaceImpact": "Reduces usable lane space by ~35%; forces vehicles to swerve into oncoming traffic",
+    "roadDamageType": "Severe Bituminous Asphalt Cavity & Sub-base Failure",
+    "obstructionType": "Road Crater & Asphalt Cavity",
+    "status": "Open",
+    "ward": "Ward 8 - Vastrapur",
+    "zone": "North West Zone",
+    "location": "Ahmedabad, Gujarat",
+    "coordinates": {
+      "lat": 23.0358,
+      "lng": 72.5284
+    },
+    "department": "Roads & Buildings Project Dept",
+    "assignedEngineer": "Er. Nilesh Patel (AE - Vastrapur)",
+    "fieldContractor": "AMC Quick Response Infrastructure Squad",
+    "reportedBy": "Vikas Patel",
+    "citizenPhone": "+91 98251 40921",
+    "createdAt": "2026-10-24T18:49:21.393146+05:30",
+    "slaDeadline": "2026-10-26T06:49:21.393146+05:30",
+    "imageUrl": "/uploads/81e4a21bd3714e4da387b43776941f83.jpg",
+    "resolutionImageUrl": null,
+    "resolutionNotes": null,
+    "timeline": [
+      {
+        "stage": "Complaint Registered",
+        "status": "completed",
+        "timestamp": "24 Oct 2026, 06:49 PM",
+        "note": "CivicSnap AI verified defect with 97.2% confidence. Ticket created."
+      },
+      {
+        "stage": "Ward Officer Verification",
+        "status": "current",
+        "timestamp": "In Progress (SLA: 2 hrs)",
+        "note": "Dispatched to Ward 8 - Vastrapur Zonal Field Unit for on-site verification."
+      },
+      {
+        "stage": "Work Order Issued",
+        "status": "upcoming",
+        "timestamp": "Pending Verification",
+        "note": "Requisitioning materials & repair crew for Roads & Buildings Project Dept."
+      },
+      {
+        "stage": "Repair in Progress",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "Field remediation on site."
+      },
+      {
+        "stage": "Quality Audit & Resolved",
+        "status": "upcoming",
+        "timestamp": "Pending",
+        "note": "AMC Quality Division before/after photographic sign-off."
+      }
+    ]
+  }
+]
